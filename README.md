@@ -12,4 +12,6 @@ El objetivo de este notebook es proporcionarte una comprensión clara del impact
 
 Sigue las celdas del notebook para sumergirte en el contenido. Cada sección te llevará a ejemplos prácticos que ilustran los conceptos teóricos. ¡Prepárate para aprender y explorar!
 
+## 🔗 [Acceso al Notebook](https://github.com/eduardoleon9010/producto_unidad_V/blob/main/Producto_unidad_V.ipynb)
+
 ¡Espero que disfrutes de esta experiencia educativa y encuentres útil la información presentada! 🌟
